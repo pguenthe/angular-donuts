@@ -1,0 +1,22 @@
+h3 {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.menu-item {
+    border-bottom: 1px solid black;
+    padding-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    min-height: 80px;
+}
+
+.detail {
+    display: block;
+    margin: 4px;
+}
+
+.detail-photo {
+    margin: 4px;
+    text-align: right;
+    width: 100px;
+}
